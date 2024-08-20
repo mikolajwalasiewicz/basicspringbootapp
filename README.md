@@ -1,2 +1,2 @@
 # basicspringbootapp
-Aplikacja do wyświetlania żartów
+Aplication to output jokes
