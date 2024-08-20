@@ -1,6 +1,3 @@
-# basicspringbootapp
-Aplication to output jokes
-
 Repository Summary:
 Full-Stack Jokes App: Spring Boot & React
 
