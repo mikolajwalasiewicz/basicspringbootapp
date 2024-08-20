@@ -12,8 +12,9 @@ public class Joke {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private Long id; 
     private String content;
+    private int likes;
 
     // Gettery i Settery
     public Long getId() {
@@ -30,5 +31,13 @@ public class Joke {
 
     public void setContent(String content) {
         this.content = content;
+    }
+
+    public int getLikes() {
+        return likes;
+    }
+
+    public void setLikes(int likes) {
+        this.likes = likes;
     }
 }
