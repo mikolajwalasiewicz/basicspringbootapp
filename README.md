@@ -8,8 +8,13 @@ This repository contains a full-stack web application developed using Spring Boo
 
 Features:
   Backend: Spring Boot RESTful API with MariaDB integration.
+  
   Frontend: React app for displaying and interacting with jokes.
+  
   Like Functionality: Users can like each joke once per session; likes are stored and managed in the database.
+  
   Animations: Smooth transitions and animations for better user interaction.
+  
   State Management: Handling of session-based like limitations and dynamic content rendering.
+  
   This project showcases my skills in full-stack development, integrating backend services with a modern frontend, and             creating interactive, user-friendly web applications.
